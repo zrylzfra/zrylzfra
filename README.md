@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**ZyArko/ZyArko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
 
-Here are some ideas to get you started:
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://archlinux.org/logos/archlinux-icon-crystal-64.svg" title="Arch linux" alt="Arch Linux"width="40" height="40"/>&nbsp;
+<img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
+   <br/>
+   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <div>
+  ---
+### :fire: My Stats :
+
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ZyArko&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZyArko&layout=compact&theme=vision-friendly-dark)](https://github.com/ZyArko/github-readme-stats)
