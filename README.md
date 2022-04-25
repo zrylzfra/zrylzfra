@@ -25,6 +25,6 @@ Lifelong learner, trying things about Web Development & Android Application.
 
   ### :fire: My Stats :
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zrylzfra&layout=compact&theme=vision-friendly-dark)](https://github.com/ZyArko/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zrylzfra&layout=compact&theme=vision-friendly-dark)](https://github.com/zrylzfra/github-readme-stats)
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zrylzfra&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
