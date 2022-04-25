@@ -3,8 +3,6 @@ I build up, break down stuff and connect.
 
 Lifelong learner, trying things about Web Development & Android Application.
 
-![Profile Views](https://komarev.com/ghpvc/?username=zrylzfra&style=flat-square)
-
 ### Tools and Languages
 
 <div>
