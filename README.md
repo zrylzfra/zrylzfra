@@ -6,7 +6,7 @@ I build up, break down stuff and connect.
 Lifelong learner, trying things about Web Development & Android Application.
 
 
-## :hammer_and_wrench: Languages and Tools
+## :hammer_and_wrench: LANGUAGE AND TOOLS
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
@@ -20,8 +20,8 @@ Lifelong learner, trying things about Web Development & Android Application.
   <div>
 
 
-## :fire: My Stats
+## :fire: MY STATS
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zrylzfra&theme=blood&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)]
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=zrylzfra&count_private=true&showicons=true)]
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zrylzfra&langs_count=5&)]
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zrylzfra&theme=blood&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=zrylzfra&count_private=true&showicons=true)
+![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zrylzfra&langs_count=5&)
