@@ -5,7 +5,7 @@ Lifelong learner, trying things about Web Development & Android Application.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=zrylzfra&style=flat-square)
 
-## My Stats
+### Tools and Languages
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="35" height="35"/>&nbsp;
