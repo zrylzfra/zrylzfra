@@ -3,7 +3,7 @@ I build up, break down stuff and connect.
 
 Lifelong learner, trying things about Web Development & Android Application.
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=zrylzfra&style=flat-square)
 
 ### Language & Tools
 
@@ -23,4 +23,4 @@ Lifelong learner, trying things about Web Development & Android Application.
   
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zrylzfra&theme=blood&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=zrylzfra&count_private=true&showicons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zrylzfra)](https://github.com/zrylzfra/github-readme-stats)
