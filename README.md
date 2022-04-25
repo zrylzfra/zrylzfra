@@ -23,4 +23,4 @@ Lifelong learner, trying things about Web Development & Android Application.
   
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zrylzfra&theme=blood&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=zrylzfra&count_private=true&showicons=true)
-![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zrylzfra&langs_count=5&)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
