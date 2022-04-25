@@ -1,13 +1,12 @@
-### Hi there 👋
+## Hi there 👋
 
-Hi I'm Zai.
+I'm Zai.
 I build up, break down stuff and connect.
 
 Lifelong learner, trying things about Web Development & Android Application.
 
----
 
-### :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Languages and Tools
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
@@ -20,10 +19,11 @@ Lifelong learner, trying things about Web Development & Android Application.
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
   <div>
 
-  ---
 
-  ### :fire: My Stats :
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zrylzfra&layout=compact&theme=vision-friendly-dark)](https://github.com/zrylzfra/github-readme-stats)
-
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zrylzfra&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+## :fire: My Stats
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zrylzfra&theme=blood&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+    
+![](https://github.com/username/github-stats/blob/master/generated/overview.svg)
+    
+![](https://github.com/username/github-stats/blob/master/generated/languages.svg)
